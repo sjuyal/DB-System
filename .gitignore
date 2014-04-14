@@ -1,0 +1,8 @@
+Data/*
+.project
+.classpath
+.settings/
+*~
+*.swp
+*/*.class
+*.class

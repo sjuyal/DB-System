@@ -1,0 +1,24 @@
+PAGE_SIZE 1024
+NUM_PAGES 10
+PATH_FOR_DATA ./
+BEGIN
+employee1
+PRIMARY_KEY,ID, integer
+NAME, varchar
+END
+BEGIN
+employee2
+PRIMARY_KEY,ID, integer
+NAME, varchar
+END
+BEGIN
+employee3
+PRIMARY_KEY,ID, integer
+NAME, varchar
+END
+BEGIN
+student
+Roll, integer
+NAME, varchar
+PRIMARY_KEY,BRANCH, varchar
+END
